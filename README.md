@@ -12,6 +12,7 @@
   
   ## Installation
   To get this application follow the heroku deployed app below.
+  https://protected-ridge-10667.herokuapp.com/
   
   ## Usage
   To use this application just enter in the amount of funds you are working with and as you go on with your day, add any expenses you had, any money you would like to deposit, etc.
